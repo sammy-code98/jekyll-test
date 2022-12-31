@@ -30,7 +30,8 @@ twitter_username: code_sammy98
 github_username:  sammy-code98
 
 # Build settings
-theme: jekyll-theme-hacker
+# theme: jekyll-theme-hacker
+theme: minima
 plugins:
   - jekyll-feed
 
